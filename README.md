@@ -1,7 +1,5 @@
 # Func-Programming-Principles-In-Scala
 Functional Programming Principles in Scala
-Better have cheatsheet here:
-This cheat sheet originated from the MOOC Functional Programming Principles in Scala, credits to Laurent Poulain.
 
 ## Evaluation Rules
 
